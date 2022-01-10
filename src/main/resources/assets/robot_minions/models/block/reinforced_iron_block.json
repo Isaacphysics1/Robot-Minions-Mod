@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "robot_minions:block/reinforced_iron_block"
+  }
+}

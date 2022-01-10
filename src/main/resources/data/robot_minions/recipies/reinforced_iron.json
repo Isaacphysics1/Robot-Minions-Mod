@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  ["oio",
+    "idi",
+    "oio"
+  ],
+  "key":
+  {
+    "o":
+    {
+      "item": "minecraft:obsidian"
+    },
+    "d":
+    {
+      "item": "minecraft:diamond"
+    },
+    "i":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "robot_minion:reinforced_iron_ingot",
+    "count": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " s ",
+    "sis",
+    " s "
+  ],
+  "key":
+  {
+    "s":
+    {
+      "item": "minecraft:stick"
+    },
+    "i":
+    {
+      "item": "robot_minion:reinforced_iron_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "robot_minion:reinforced_stick",
+    "count": 2
+  }
+}

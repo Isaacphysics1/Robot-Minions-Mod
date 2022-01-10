@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "robot_minions",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Robot Minions",
+  "description": "Bot That Creates Minions That Connect To A Socket To Get Commands",
   "authors": [
     "Me!"
   ],
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.bigtony20.robot_minions.RobotMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "robot_minions.mixins.json"
   ],
 
   "depends": {

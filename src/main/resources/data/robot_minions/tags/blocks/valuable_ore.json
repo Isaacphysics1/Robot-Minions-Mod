@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "mincraft:coal_ore",
+    "mincraft:deepslate_coal_ore",
+
+    "mincraft:iron_ore",
+    "mincraft:deepslate_iron_ore",
+
+    "mincraft:redstone_ore",
+    "mincraft:deepslate_redstone_ore",
+
+    "mincraft:diamond_ore",
+    "mincraft:deepslate_diamond_ore",
+
+    "mincraft:gold_ore",
+    "mincraft:deepslate_gold_ore",
+
+    "mincraft:copper_ore",
+    "mincraft:deepslate_copper_ore"
+  ]
+}

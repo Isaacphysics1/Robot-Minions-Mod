@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "robot_minion:reinforced_iron_block"
+    }
+  ],
+  "result":
+  {
+    "item": "robot_minion:reinforced_iron_ingot",
+    "count": 9
+  }
+}

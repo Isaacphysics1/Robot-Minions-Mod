@@ -1,0 +1,12 @@
+{
+  "item.robot_minions.reinforced_iron_ingot": "Reinforced Iron Ingot",
+  "item.robot_minions.reinforced_stick": "Reinforced Stick",
+  "item.robot_minions.robot_antenna": "Robot Antenna",
+  "item.robot_minions.robot_body": "Robot Body",
+  "item.robot_minions.robot_sensor": "Robot Sensor",
+  "item.robot_minions.robot_ore_scanner" : "Robot Ore Scanner",
+
+  "block.robot_minions.reinforced_iron_block": "Reinforced Iron Block",
+
+  "itemGroup.robot_minions.robot_minions_itemgroup": "Robot Minions"
+}
