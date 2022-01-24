@@ -1,0 +1,9 @@
+{
+  "FOTV": {
+    "category": "blocks",
+    "subtitle": "tutorialmod.small_explosion",
+    "sounds": [
+      "tutorialmod:small_explosion"
+    ]
+  }
+}

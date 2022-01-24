@@ -31,3 +31,5 @@ bin/
 # fabric
 
 run/
+
+Server/node_modules/

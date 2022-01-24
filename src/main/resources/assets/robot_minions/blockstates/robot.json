@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "robot_minions:block/robot" },
+    "facing=south": { "model": "robot_minions:block/robot", "y":  180},
+    "facing=west": { "model": "robot_minions:block/robot", "y":  270},
+    "facing=east": { "model": "robot_minions:block/robot", "y":  90}
+  }
+}

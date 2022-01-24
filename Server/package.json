@@ -1,0 +1,19 @@
+{
+  "name": "mc_mod_server",
+  "version": "1.0.0",
+  "description": "Web Server For MC Mod",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "engine.io-client": "^6.1.1",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

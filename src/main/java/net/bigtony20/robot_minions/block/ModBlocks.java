@@ -11,7 +11,8 @@ import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
 
-    private static Block REINFORCED_IRON_BLOCK = regitserBlock("reinforced_iron_block", new ReinforcedIronBlock());
+    public static Block REINFORCED_IRON_BLOCK = regitserBlock("reinforced_iron_block", new ReinforcedIronBlock());
+    public static Block ROBOT_BLOCK = regitserBlock("robot", new Robot());
 
     public static Block regitserBlock(String name, Block block){
         regitserBlockItem(name,block);

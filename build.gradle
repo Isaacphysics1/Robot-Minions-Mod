@@ -25,6 +25,7 @@ dependencies {
 
 	//Fabric api
 	modImplementation "net.fabricmc.fabric-api:fabric-api:0.45.2+1.18"
+	implementation ('io.socket:socket.io-client:2.0.1')
 }
 
 processResources {

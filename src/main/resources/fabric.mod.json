@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.bigtony20.robot_minions.RobotMod"
+    ],
+    "client": [
+      "net.bigtony20.robot_minions.RobotModClient"
     ]
   },
   "mixins": [
